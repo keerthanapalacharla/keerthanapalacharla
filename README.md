@@ -1,12 +1,3 @@
-# Hi, I'm Keerthana 👋
-
-**Data Analyst** | SQL · Power BI · Python · Excel | Hyderabad, India
-
-I'm a data analyst with 5 years at Amazon building audit data pipelines, KPI dashboards, and performance reporting systems for US Sales Tax Operations. I turn messy operational data into decisions that actually change something — reduced defects by 20%, improved process efficiency, and consistently maintained 98% compliance across 100+ audits per week.
-
-Currently seeking Data Analyst / Business Intelligence Analyst roles in Hyderabad.
-
----
 
 # Hi, I'm Keerthana 👋
 
